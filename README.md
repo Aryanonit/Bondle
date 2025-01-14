@@ -1,2 +1,2 @@
 # Bondle
-A Open source dev site to grow!!!!
+A Open source Dev site to Grow and Learn!!!!
